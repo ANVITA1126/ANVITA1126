@@ -1,49 +1,51 @@
-# 👋 Hey, I'm Anvita Shukla
+# Anvita Shukla 👩‍💻
 
-🚀 I design. I code. I build.  
-🎓 2nd Year CSE Student | Frontend & UI/UX Explorer  
-💡 Turning ideas into clean interfaces and working code
-
----
-
-## ✨ Who Am I?
-
-I’m a Computer Science student who loves mixing **design + logic**.  
-From crafting UI in **Figma & Canva** to building with **JavaScript and Python**,  
-I enjoy creating things that look good **and** work well.
-
-I believe consistency beats talent — so I show up and build.
+Computer Science Undergraduate (2nd Year, Semester 4)  
+Focused on building scalable frontend systems and exploring cybersecurity fundamentals.
 
 ---
 
-## 🧠 What I Work With
+## 🛠 Technical Skills
 
-💻 **Languages**
-- C  
-- JavaScript  
-- Python  
+### Languages
+C • JavaScript • Python
 
-🎨 **Design & UI/UX**
-- Figma  
-- Canva  
+### Web & Frontend
+HTML • CSS • DOM Manipulation • Responsive Design
 
-🌐 **Web**
-- HTML  
-- CSS  
+### Tools & Workflow
+Git • GitHub • Linux (Basics)
 
-⚙ **Tools**
-- Git  
-- GitHub  
+### Design
+Figma • Canva (UI Prototyping & Visual Systems)
 
 ---
 
-## 🔭 Current Focus
+## 🚀 What I'm Currently Working On
 
-- Building frontend projects with real-world UI  
-- Improving JavaScript & Python fundamentals  
-- Exploring cybersecurity & problem-solving  
-- Participating in hackathons and tech communities  
+- Building structured frontend projects (clean UI + maintainable code)
+- Strengthening core programming fundamentals
+- Exploring networking & security concepts
+- Practicing data structures and problem solving
 
 ---
 
-## 🧩 What You’ll Fin
+## 📌 Engineering Approach
+
+- Write readable, modular code  
+- Prioritize clarity over complexity  
+- Ship small, improve consistently  
+- Learn by building  
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ANVITA1126&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ANVITA1126&layout=compact)
+
+---
+
+## 📫 Connect
+LinkedIn: ([)](https://www.linkedin.com/in/anvita-shukla261006/)
