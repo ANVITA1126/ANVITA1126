@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anvita Shukla</h1>
 
 <p align="center">
-  🎓 Computer Science Undergraduate • 2nd Year (Semester 4) <br/>
-  ☁️ Core CS • Cloud Computing • Cybersecurity
+🎓 Computer Science Undergraduate • 2nd Year (Semester 4) <br/>
+☁️ Core CS • Cloud Computing • Cybersecurity Enthusiast
 </p>
 
 <p align="center">
@@ -83,12 +83,52 @@ I am a Computer Science student building strong foundations in:
 
 ---
 
-## 🚀 Current Focus
+## 🧬 Developer Identity
+
+* 🎯 Focus: Core CS + Cloud + Security
+* ⚡ Strength: Consistency & Problem Solving
+* 🧠 Mindset: Systems > Syntax
+* 🚀 Goal: Cloud & Security Engineer
+
+---
+
+## 🏗️ Currently Building
+
+* 🔐 Secure File Upload System (AWS S3 + IAM)
+* 📊 DSA Tracker (Progress Visualization)
+* 🖥️ Linux System Monitoring Tool
+
+---
+
+## 🚀 Featured Projects
+
+🔹 **Cloud File Uploader**
+Secure file uploads using AWS S3 & IAM
+
+🔹 **DSA Solutions Repository**
+Optimized solutions with structured approach
+
+🔹 **Linux Monitoring Tool**
+CLI tool for system insights
+
+---
+
+## 🎯 Current Focus
 
 * 🔁 Daily DSA Practice
 * 📚 Strengthening Core CS
 * ☁️ AWS Architecture
 * 🔐 Cybersecurity Concepts
+
+---
+
+## 📈 Consistency
+
+```text
+DSA Practice     ███████████░░░ 80%
+Cloud Learning   ████████░░░░░░ 60%
+Cybersecurity    █████░░░░░░░░░ 40%
+```
 
 ---
 
@@ -106,6 +146,14 @@ I am a Computer Science student building strong foundations in:
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ANVITA1126&theme=tokyo-night"/>
 </p>
+
+---
+
+## 🎯 2026 Goals
+
+* 🚀 Solve 300+ DSA problems
+* ☁️ Build 3 AWS-based projects
+* 🔐 Learn practical cybersecurity
 
 ---
 
